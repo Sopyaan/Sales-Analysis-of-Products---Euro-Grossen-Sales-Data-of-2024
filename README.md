@@ -8,9 +8,9 @@ This project is a personal initiative to analyze sales data and uncover insights
 # Project Goals
 The primary objectives of this project are:
 - Analyze Sales Performance: Evaluate the sales trends and performance of each product category.
-Assess Profitability: Compare selling prices with buying costs to identify profitable products and categories.
+- Assess Profitability: Compare selling prices with buying costs to identify profitable products and categories.
 - Uncover Sales Patterns: Identify monthly and seasonal trends in sales performance.
-Provide Actionable Insights: Offer data-driven recommendations for pricing strategies, inventory optimization, and revenue enhancement.
+- Provide Actionable Insights: Offer data-driven recommendations for pricing strategies, inventory optimization, and revenue enhancement.
 
 # Metrics and Dimensions
 ## Metrics
