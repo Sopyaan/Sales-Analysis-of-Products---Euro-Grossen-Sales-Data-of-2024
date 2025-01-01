@@ -27,6 +27,10 @@ Profit: Calculated as the difference between Total Sell and Buying Price.
 This breakdown of metrics and dimensions provides a structured approach for analyzing sales trends and profitability while supporting strategic business decisions.
 
 # Business Insights Overview**
+<p align="center">
+  <img src="", width="" height="">
+</p>
+
 ## 1. Seasonal Sales Patterns
 ### Findings:
 - Sales peaked in January 2024 but saw a significant decline in the following months.
