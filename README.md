@@ -28,7 +28,7 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 
 # Business Insights Overview**
 <p align="center">
-  <img src="", width="" height="">
+  <img src="https://github.com/Sopyaan/Sales-Analysis-of-Products---Euro-Grossen-Sales-Data-of-2024/blob/main/images/Visulisasi%20data.png", width="" height="">
 </p>
 
 ## 1. Seasonal Sales Patterns
