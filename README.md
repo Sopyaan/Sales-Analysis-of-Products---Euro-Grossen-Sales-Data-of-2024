@@ -26,7 +26,7 @@ Profit: Calculated as the difference between Total Sell and Buying Price.
 - Month: Sales data organized by month for time-based trend analysis.
 This breakdown of metrics and dimensions provides a structured approach for analyzing sales trends and profitability while supporting strategic business decisions.
 
-# Business Insights Overview**
+# Business Insights Overview
 <p align="center">
   <img src="https://github.com/Sopyaan/Sales-Analysis-of-Products---Euro-Grossen-Sales-Data-of-2024/blob/main/images/Visulisasi%20data.png", width="" height="">
 </p>
