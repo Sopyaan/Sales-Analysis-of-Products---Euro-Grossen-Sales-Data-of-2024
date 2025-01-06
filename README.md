@@ -41,12 +41,12 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 - Capitalize on January Peaks: Launch new products or promotional campaigns during periods of high sales activity.
 - Address Declines in March–April: Investigate potential causes, such as seasonal shifts or competitive pressures, and implement targeted discounts or campaigns to mitigate losses.
 - Leverage Growth Momentum: Repeat successful strategies from the second half of the year to sustain and enhance growth.
-- 
+  
 ## 2. Profitability and Pricing
 ### Findings:
 - Higher buying costs and sales volumes significantly contribute to overall profits.
 - Increasing the price per product slightly boosts profits without negatively affecting sales volumes, indicating inelastic demand.
-- 
+  
 ### Recommendations:
 - Optimize Buying Costs: Negotiate better supplier deals to improve profit margins.
 - Strategic Pricing Adjustments: Slightly increase product prices, focusing on high-demand categories to enhance profitability.
@@ -59,7 +59,7 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 ### Recommendations:
 - Focus on expanding the Spices and Frozen Fish categories through improved marketing and distribution strategies.
 - Explore opportunities to drive sales in lower-performing categories by introducing promotions or value-added products.
-- 
+  
 ## 4. Reliable Data Insights
 ### Findings:
 - The dataset demonstrates a consistent relationship between buying price and sales, ensuring reliable data for predictive analysis.
