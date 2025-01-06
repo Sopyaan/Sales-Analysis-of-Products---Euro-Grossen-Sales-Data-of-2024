@@ -1,21 +1,21 @@
 # Sales-Analysis-of-Products---Euro-Grossen-Sales-Data-of-2024
 
-# Introduction
-This project is a personal initiative to analyze sales data and uncover insights into profitability and trends. The dataset used in this analysis is sourced from Kaggle, specifically curated for the Euro Grossen sales data of 2024. This project delves into the Euro Grossen Sales Data for the year 2024, offering a comprehensive analysis of product sales, pricing, and profitability. By exploring this dataset, the project aims to uncover key insights into sales trends, profitability drivers, and overall business performance. Covering a wide range of products across multiple categories, this analysis serves as a foundation for optimizing sales strategies, pricing models, and inventory management to enhance business outcomes.
+# 🗂️ Project Overview
+This project is a personal initiative to analyze Euro Grossen sales data for 2024. The dataset, sourced from Kaggle, focuses on evaluating product sales, pricing, and profitability. Through this analysis, I aim to uncover key sales trends, identify profitability drivers, and assess overall business performance. Covering a variety of products across multiple categories, this project serves as a foundation for optimizing sales strategies, pricing models, and inventory management to enhance business outcomes.
 
 [Analysis Data](https://github.com/Sopyaan/Sales-Analysis-of-Products---Euro-Grossen-Sales-Data-of-2024/blob/main/Sales_Analysis_of_Products_Profitability_and_Trends_Euro_Grossen_Sales_Data_of_2024.ipynb)
 
-# Project Goals
+# 🎯 Objectives
 The primary objectives of this project are:
 - Analyze Sales Performance: Evaluate the sales trends and performance of each product category.
 - Assess Profitability: Compare selling prices with buying costs to identify profitable products and categories.
 - Uncover Sales Patterns: Identify monthly and seasonal trends in sales performance.
 - Provide Actionable Insights: Offer data-driven recommendations for pricing strategies, inventory optimization, and revenue enhancement.
 
-# Metrics and Dimensions
+# 📋 Data Description
 ## Metrics
 - Total Sell: Total revenue generated from product sales.
-Profit: Calculated as the difference between Total Sell and Buying Price.
+- Profit: Calculated as the difference between Total Sell and Buying Price.
 - Quantity: Total number of units sold.
 - Weight: Product weight, impacting logistics and shipping costs.
 - Price per Piece (Kr): Selling price of each product.
@@ -24,6 +24,7 @@ Profit: Calculated as the difference between Total Sell and Buying Price.
 - Product Name: Name of the product sold.
 - Product Category: Grouping of similar products into categories.
 - Month: Sales data organized by month for time-based trend analysis.
+  
 This breakdown of metrics and dimensions provides a structured approach for analyzing sales trends and profitability while supporting strategic business decisions.
 
 # Business Insights Overview
